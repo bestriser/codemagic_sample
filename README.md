@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/615acfcd9900d7e463373bb2/615acfcd9900d7e463373bb1/status_badge.svg)](https://codemagic.io/apps/615acfcd9900d7e463373bb2/615acfcd9900d7e463373bb1/latest_build)
+
 # codemagic_sample
 
 Codemagicの運用テスト
